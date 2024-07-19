@@ -1,7 +1,6 @@
 - 👋 Hi im @x83owen
 - 🌱 I’m currently learning html
-- 👯 I’m looking to collaborate on html projects
-- 💬 Ask me about Computers
+- 👯 I’m looking to collaborate on websites
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a youtuber
 
