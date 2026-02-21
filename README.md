@@ -1,8 +1,4 @@
-- 👋 Hi im @x83owen
-- 🌱 I’m currently learning html
-- 👯 I’m looking to collaborate on websites
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a youtuber
+hi there! welcome to my github page. yeah idk what to put here but thanks for checking my page, main dev of luma projects
 
 
 
